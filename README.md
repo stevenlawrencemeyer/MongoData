@@ -1,2 +1,2 @@
 # MongoData
-Data in JASON format for use when experimenting with MongoDB
+Data in JSON format for use when experimenting with MongoDB
